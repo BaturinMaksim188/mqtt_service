@@ -1,0 +1,4 @@
+aiomqtt==2.0.1
+asyncio-mqtt==0.16.2
+paho-mqtt==1.6.1
+typing_extensions==4.10.0
